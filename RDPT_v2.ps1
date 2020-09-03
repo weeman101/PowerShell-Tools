@@ -1,4 +1,7 @@
-﻿$inputXML =@"
+### This lets you connect to a remote PC on your network and remove profiles.####
+ 
+ 
+ $inputXML =@"
 <Window x:Class="UserProfileGUI.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
