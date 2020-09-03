@@ -1,6 +1,11 @@
 ﻿[reflection.assembly]::loadwithpartialname("System.Windows.Forms") | Out-Null
 [reflection.assembly]::loadwithpartialname("System.Drawing") | Out-Null
 
+
+####### This tool will let you connect to network switch and run commands on switch.######
+####### Change 'Name' and 'IPAddress' to your values under "switch information"#####
+####### Change 'Name' and 'Username' to your values under "NEMA information (admin accounts)"#####
+
 #############
 # Variables #
 #############
